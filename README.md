@@ -5,7 +5,7 @@ Clone the Repository:
 
 git clone https://github.com/IbrahiimKhan/invitation.git
 Navigate to the Project Directory:
-cd my-awesome-react-app
+cd invitation
 
 Install Dependencies:
 npm install
